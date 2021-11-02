@@ -1,10 +1,8 @@
 # Table of contents
 
-* [Meeting Notes](README.md)
-
 ## Class Note
 
-* [2021/11/2 Class Note](class-note/2021-11-2-class-note/README.md)
+* [2021/11/2 Class Note](README.md)
   * [Overloading](class-note/2021-11-2-class-note/overloading.md)
   * [Inheritance](class-note/2021-11-2-class-note/inheritance.md)
   * [Class interface](class-note/2021-11-2-class-note/class-interface/README.md)
