@@ -5,8 +5,7 @@
 * [2021/11/2 Class Note](README.md)
   * [Overloading](cs-232-programming-with-java-fall-2021/readme/overloading.md)
   * [Inheritance](cs-232-programming-with-java-fall-2021/readme/inheritance.md)
-  * [Class interface](cs-232-programming-with-java-fall-2021/readme/class-interface/README.md)
-    * [Week 1 (6 - 10 Sept)](cs-232-programming-with-java-fall-2021/readme/class-interface/week-1-6-10-sept.md)
+  * [Class interface](cs-232-programming-with-java-fall-2021/readme/class-interface.md)
 
 ## CS 248 Discrete Math
 
