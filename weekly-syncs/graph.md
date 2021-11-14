@@ -14,16 +14,12 @@
 * An undirected graph is a finite set of vertices together with a finite set of edge.
 * Both sets might be empty, which is called the empty graph.
 
-![](broken-reference)
-
 ## Directed Graph
 
 * A directed graph us a finite set of vertices together with a finite set of edges.
 * Both sets might be empty, which is called the empty graph.
 * Each edge is associate with the two vertices, called its source and target vertices.
 * The order of the two connected vertices is important.
-
-![](broken-reference)
 
 ## Simple Graph
 
@@ -37,8 +33,6 @@
 * ∀u, v ∈ V : u≠ v ↔ {u, v} ∈  E
 * vertices: n
 * edges: ![](broken-reference)
-
-![](broken-reference)
 
 ## Cycle
 
@@ -68,8 +62,6 @@
 * For example:  boolean\[]\[] adjacent = new boolean\[4]\[4]
 * Once the adjacency matrix has been set, an application can examine location of the matrix to determine which edges are present and which are missing.
 
-![](broken-reference)
-
 ## Connected
 
 * An undirected graph is connected if there is a path between every pair of distinct vertices in the graph.
@@ -87,10 +79,6 @@
 
 
 
-![](broken-reference)
-
-![](broken-reference)
-
 
 
 ## Even/Odd Degree
@@ -99,8 +87,6 @@
 * If the degree of a vertex is even the vertex is called an even vertex.
 * If the degree of the vertex is odd, the vertex is called an odd vertex.
 * in a multigraph, a loop contributes 2 to a vertex's degree, for the two ends of the edge
-
-![vertex 5; degree 5(loop -> 2 degrees)](broken-reference)
 
 ![](broken-reference)
 
@@ -115,9 +101,6 @@
 ## Handshaking Theorem
 
 * Let G be an undirected graph with vertex set V and edge set E.&#x20;
-
-![](broken-reference)
-
 * Corollary : Any undirected graph has an even number of vertices of odd degree.
 
 {% embed url="https://www.cpp.edu/~ftang/courses/CS241/notes/graph.htm" %}
