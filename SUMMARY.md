@@ -10,7 +10,7 @@
 
 ## Weekly Syncs
 
-* [Company Weeklies](weekly-syncs/company-weeklies/README.md)
+* [Boolean Algebra](weekly-syncs/company-weeklies/README.md)
   * [1st September 2021](weekly-syncs/company-weeklies/1st-september-2021.md)
 
 ## Other Regulars
