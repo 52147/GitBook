@@ -12,6 +12,8 @@
 
 * [Boolean Algebra](weekly-syncs/company-weeklies/README.md)
   * [1st September 2021](weekly-syncs/company-weeklies/1st-september-2021.md)
+  * [Page 2](weekly-syncs/company-weeklies/page-2.md)
+* [Graph](weekly-syncs/graph.md)
 
 ## Other Regulars
 
