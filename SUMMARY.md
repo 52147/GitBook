@@ -1,12 +1,12 @@
 # Table of contents
 
-## Class Note
+## CS 232 Programming with Java (Fall 2021)
 
 * [2021/11/2 Class Note](README.md)
-  * [Overloading](class-note/2021-11-2-class-note/overloading.md)
-  * [Inheritance](class-note/2021-11-2-class-note/inheritance.md)
-  * [Class interface](class-note/2021-11-2-class-note/class-interface/README.md)
-    * [Week 1 (6 - 10 Sept)](class-note/2021-11-2-class-note/class-interface/week-1-6-10-sept.md)
+  * [Overloading](cs-232-programming-with-java-fall-2021/readme/overloading.md)
+  * [Inheritance](cs-232-programming-with-java-fall-2021/readme/inheritance.md)
+  * [Class interface](cs-232-programming-with-java-fall-2021/readme/class-interface/README.md)
+    * [Week 1 (6 - 10 Sept)](cs-232-programming-with-java-fall-2021/readme/class-interface/week-1-6-10-sept.md)
 
 ## Weekly Syncs
 
