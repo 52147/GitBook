@@ -8,11 +8,11 @@
   * [Class interface](cs-232-programming-with-java-fall-2021/readme/class-interface/README.md)
     * [Week 1 (6 - 10 Sept)](cs-232-programming-with-java-fall-2021/readme/class-interface/week-1-6-10-sept.md)
 
-## Weekly Syncs
+## CS 248 Discrete Math
 
-* [Boolean Algebra](weekly-syncs/company-weeklies/README.md)
-  * [1st September 2021](weekly-syncs/company-weeklies/1st-september-2021.md)
-  * [Page 2](weekly-syncs/company-weeklies/page-2.md)
-* [Graph](weekly-syncs/graph/README.md)
-  * [Eulerian Paths and Circuits](weekly-syncs/graph/eulerian-paths-and-circuits.md)
-  * [Hamilton Path and Circuits](weekly-syncs/graph/hamilton-path-and-circuits.md)
+* [Boolean Algebra](cs-248-discrete-math/company-weeklies/README.md)
+  * [1st September 2021](cs-248-discrete-math/company-weeklies/1st-september-2021.md)
+  * [Page 2](cs-248-discrete-math/company-weeklies/page-2.md)
+* [Graph](cs-248-discrete-math/graph/README.md)
+  * [Eulerian Paths and Circuits](cs-248-discrete-math/graph/eulerian-paths-and-circuits.md)
+  * [Hamilton Path and Circuits](cs-248-discrete-math/graph/hamilton-path-and-circuits.md)
