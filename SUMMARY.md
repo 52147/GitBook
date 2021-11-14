@@ -13,7 +13,9 @@
 * [Boolean Algebra](weekly-syncs/company-weeklies/README.md)
   * [1st September 2021](weekly-syncs/company-weeklies/1st-september-2021.md)
   * [Page 2](weekly-syncs/company-weeklies/page-2.md)
-* [Graph](weekly-syncs/graph.md)
+* [Graph](weekly-syncs/graph/README.md)
+  * [Eulerian Paths and Circuits](weekly-syncs/graph/eulerian-paths-and-circuits.md)
+* [Page 1](weekly-syncs/page-1.md)
 
 ## Other Regulars
 
