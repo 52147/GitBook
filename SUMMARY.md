@@ -15,6 +15,9 @@
   * [Page 2](weekly-syncs/company-weeklies/page-2.md)
 * [Graph](weekly-syncs/graph/README.md)
   * [Eulerian Paths and Circuits](weekly-syncs/graph/eulerian-paths-and-circuits.md)
+  * [Hamilton Path and Circuits](weekly-syncs/graph/hamilton-path-and-circuits.md)
+* [Page 4](weekly-syncs/page-4.md)
+* [Page 3](weekly-syncs/page-3.md)
 * [Page 1](weekly-syncs/page-1.md)
 
 ## Other Regulars
