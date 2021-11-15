@@ -102,7 +102,7 @@
 * If the degree of the vertex is odd, the vertex is called an odd vertex.
 * in a multigraph, a loop contributes 2 to a vertex's degree, for the two ends of the edge.
 
-![](<../../.gitbook/assets/image (12).png>)
+![vertex 5; degree 5(loop -> 2 degrees)](<../../.gitbook/assets/image (12).png>)
 
 ![](<../../.gitbook/assets/image (5).png>)
 

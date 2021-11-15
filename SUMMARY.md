@@ -9,7 +9,7 @@
 
 ## CS 248 Discrete Math
 
-* [Boolean Algebra](cs-248-discrete-math/company-weeklies.md)
+* [Boolean Algebra](cs-248-discrete-math/company-weeklies/README.md)
 * [Graph](cs-248-discrete-math/graph/README.md)
   * [Eulerian Paths and Circuits](cs-248-discrete-math/graph/eulerian-paths-and-circuits.md)
   * [Hamilton Path and Circuits](cs-248-discrete-math/graph/hamilton-path-and-circuits.md)
