@@ -36,7 +36,7 @@
 * is a simple graph with n nodes in which every nodes is adjacent to every other node:
 * ∀u, v ∈ V : u≠ v ↔ {u, v} ∈  E
 * vertices: n
-* edges:&#x20;
+* edges: ![](<../../.gitbook/assets/image (2).png>)
 
 ![](../../.gitbook/assets/image.png)
 
@@ -85,7 +85,7 @@
 * A vertex of degree 0 is isolated.
 * A vertex of degree 1 is pendant.
 
-![](<../../.gitbook/assets/image (5).png>)
+![](<../../.gitbook/assets/image (5) (1).png>)
 
 ![](<../../.gitbook/assets/image (1).png>)
 
@@ -100,9 +100,11 @@
 * Once you have the degree of the vertex you can decide if the vertex or node is even or odd.
 * If the degree of a vertex is even the vertex is called an even vertex.
 * If the degree of the vertex is odd, the vertex is called an odd vertex.
-* in a multigraph, a loop contributes 2 to a vertex's degree, for the two ends of the edge
+* in a multigraph, a loop contributes 2 to a vertex's degree, for the two ends of the edge.
 
-![](broken-reference)
+![](<../../.gitbook/assets/image (12).png>)
+
+![](<../../.gitbook/assets/image (5).png>)
 
 | vertex | degree | Even or Odd |   |
 | ------ | ------ | ----------- | - |

@@ -5,4 +5,4 @@
 
 
 
-![](<../../.gitbook/assets/image (10).png>)
+![A Hamiltonian cycle around a network of six vertices](<../../.gitbook/assets/image (10) (1).png>)
