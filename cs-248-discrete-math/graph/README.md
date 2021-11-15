@@ -14,12 +14,16 @@
 * An undirected graph is a finite set of vertices together with a finite set of edge.
 * Both sets might be empty, which is called the empty graph.
 
+![](<../../.gitbook/assets/image (8).png>)
+
 ## Directed Graph
 
 * A directed graph us a finite set of vertices together with a finite set of edges.
 * Both sets might be empty, which is called the empty graph.
 * Each edge is associate with the two vertices, called its source and target vertices.
 * The order of the two connected vertices is important.
+
+![](<../../.gitbook/assets/image (6).png>)
 
 ## Simple Graph
 
@@ -32,7 +36,9 @@
 * is a simple graph with n nodes in which every nodes is adjacent to every other node:
 * ∀u, v ∈ V : u≠ v ↔ {u, v} ∈  E
 * vertices: n
-* edges: ![](broken-reference)
+* edges:&#x20;
+
+![](../../.gitbook/assets/image.png)
 
 ## Cycle
 
@@ -62,6 +68,8 @@
 * For example:  boolean\[]\[] adjacent = new boolean\[4]\[4]
 * Once the adjacency matrix has been set, an application can examine location of the matrix to determine which edges are present and which are missing.
 
+![](<../../.gitbook/assets/image (7).png>)
+
 ## Connected
 
 * An undirected graph is connected if there is a path between every pair of distinct vertices in the graph.
@@ -76,6 +84,12 @@
 * The degree of v, denoted by deg(v), is its number of incident edges. (Except that any self-loops are counted twice.)
 * A vertex of degree 0 is isolated.
 * A vertex of degree 1 is pendant.
+
+![](<../../.gitbook/assets/image (5).png>)
+
+![](<../../.gitbook/assets/image (1).png>)
+
+![](<../../.gitbook/assets/image (3).png>)
 
 
 
