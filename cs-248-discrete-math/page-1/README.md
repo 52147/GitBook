@@ -86,3 +86,39 @@ order 8 common yes
 \[{000,101},+2] subgroup of order 2
 
 {000,100,011,111}
+
+subgroups induce a partition  in the group:
+
+coset: explain:\[Z12,+12] Group
+
+\[{0,6},+12] induces a partition in the \[Z12,+12]
+
+Leftcosets:
+
+3+ 12H = 3+12{0,6} = {3+120,3+10 6} = {3,9}
+
+5 +12H = 5+12{0,6} = {5,11}
+
+
+
+
+
+\[Z12,+12]
+
+{0,4,8}  = C1
+
+\[{e,p,q,r,s,t},#]
+
+Comm? NO id.ele =e
+
+e^-1 = e, p^-1 =q, q^-1 = p , r^-1 =r , s^-1 = s, t^-1 =t
+
+
+
+left consels:
+
+e# {e,r} = {e,r} = C16
+
+s# {e,r} = {s,p} = C26
+
+q# {e,r} = {} =
