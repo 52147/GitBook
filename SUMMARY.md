@@ -13,3 +13,6 @@
 * [Graph](cs-248-discrete-math/graph/README.md)
   * [Eulerian Paths and Circuits](cs-248-discrete-math/graph/eulerian-paths-and-circuits.md)
   * [Hamilton Path and Circuits](cs-248-discrete-math/graph/hamilton-path-and-circuits.md)
+* [Page 1](cs-248-discrete-math/page-1/README.md)
+  * [Page 2](cs-248-discrete-math/page-1/page-2.md)
+* [Page 3](cs-248-discrete-math/page-3.md)
