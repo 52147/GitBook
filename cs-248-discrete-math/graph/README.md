@@ -1,4 +1,4 @@
-# Graph
+# ☃ Graph
 
 
 
@@ -51,7 +51,7 @@
 *   Paths in undirected graphs
 
     * &#x20;In an undirected graph, a path of length m from u to v is a sequence of adjacent edges going form vertex u to vertex v.
-    * A path is a **circuit **if u - v.
+    * A path is a **circuit** if u - v.
     * A path traverses the vertices along it.
     * A path is simple if it contains no edge more than once.
 

@@ -2,10 +2,10 @@
 description: Thursday, November 11th 6:00 pm-8:45 pm
 ---
 
-# Boolean Algebra
+# 🐶 Boolean Algebra
 
 {% hint style="info" %}
-**George Boole: **
+**George Boole:**&#x20;
 
 We may map the logical dichotomy "true or false" to mathematical bits or binary digits "0 or 1" and then to electric switches "open or closed".
 
